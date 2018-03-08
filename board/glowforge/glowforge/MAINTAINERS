@@ -1,0 +1,6 @@
+GLOWFORGE
+M:	Glowforge, Inc. <opensource@glowforge.com>
+S:	Maintained
+F:	board/glowforge/glowforge/
+F:	include/configs/glowforge.h
+F:	configs/glowforge_defconfig

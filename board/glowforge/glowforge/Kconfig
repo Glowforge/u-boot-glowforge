@@ -1,0 +1,15 @@
+if TARGET_GLOWFORGE
+
+config SYS_BOARD
+	default "glowforge"
+
+config SYS_VENDOR
+	default "glowforge"
+
+config SYS_SOC
+	default "mx6"
+
+config SYS_CONFIG_NAME
+	default "glowforge"
+
+endif
